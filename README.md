@@ -1,6 +1,6 @@
-#Project 1 - Movies Website
+# Project 1 - Movies Website
 
-##Python Version
+## Python Version
 
 Make sure you have the following version of the Python. It should be 2.x not 3.x.
 
@@ -18,7 +18,7 @@ First of you need to clone the repo
 git clone https://github.com/harushimo/udacity_FSND.git
 ```
 
-##Running the Program
+## Running the Program
 
 In order run the program on any nix or mac osx, you need to do the following
 ```
